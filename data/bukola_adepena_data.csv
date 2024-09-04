@@ -1,0 +1,279 @@
+S/N,name,Gender,Test,Exam Score,total,arm,term
+1,ABASS Joseph Adeogo,Male,20,42,62,B,FIRST
+2,ABDULGANIY Sa'ad,Male,20,29,49,B,FIRST
+3,ADEBAYO Alimot Adunni,Female,7,29,36,B,FIRST
+4,ADEBAYO Nasirat Abike,Female,1,19,20,B,FIRST
+5,ADEDEJI Ayobami Adisa,Male,10,21,31,B,FIRST
+6,ADEGBITE Nathaniel Favour,Male,12,26,38,B,FIRST
+7,ADEGBOLA Rokeebat Opeyemi,Female,22,35,57,B,FIRST
+8,ADEJIMI Daniel Ayobami,Male,1,12,13,B,FIRST
+9,ADEKUNBI Morida Arike,Female,2,16,18,B,FIRST
+10,ADEKUNBI Fathia Anike,Female,1,17,18,B,FIRST
+11,ADEKUNLE Faruq Olamilekan,Male,20,23,43,B,FIRST
+12,ADENIJI Rokeeb Alao,Male,17,43,60,B,FIRST
+13,ADENIJI Fawas Akanbi,Male,29,59,88,B,FIRST
+14,ADENIYI Nimotalai,Female,9,12,21,B,FIRST
+15,ADENIYI Quadri Akano,Male,11,45,56,B,FIRST
+16,ADENLE Irebami,Male,22,37,59,B,FIRST
+17,ADEOTI Faruku Akano,Male,4,18,22,B,FIRST
+18,ADEPATE Quawi,Male,7,25,32,B,FIRST
+19,ADEPOJU Quawiat Abeke,Female,23,19,42,B,FIRST
+20,ADEYEMI Tope Arike,Female,21,21,42,B,FIRST
+21,AGBOBA Soliudeen Ayomide,Male,11,32,43,B,FIRST
+22,AJIBODE Islamiat Odunayo,Female,20,22,42,B,FIRST
+23,AKINBILE Quaribat Amope,Female,1,16,17,B,FIRST
+24,AKINGBADE Deborah Anike,Female,0,0,0,B,FIRST
+25,AKINLEYE Ahmod Olamilekan,Male,12,10,22,B,FIRST
+26,AKINNIYI Kudirat .,Female,8,39,47,B,FIRST
+27,AKINODE Rokibat Abebi,Female,11,25,36,B,FIRST
+28,AKINOLA Muyideen Ishola,Male,7,15,22,B,FIRST
+29,AKINOLA Muheez Alabi,Male,15,47,62,B,FIRST
+30,AKINYEMI Bukola Omonitan,Female,5,43,48,B,FIRST
+31,ALAO Odunayo Samuel,Male,4,21,25,B,FIRST
+32,BABAJIDE Gafar Olamilekan,Male,0,0,0,B,FIRST
+33,BABATUNDE Oluwapelumi Islamiat,Female,7,5,12,B,FIRST
+34,BANGBADE Musemilu Ayomide,Male,11,22,33,B,FIRST
+35,BOLADELE Yinus Akanni,Male,0,0,0,B,FIRST
+36,DADA Rodia Asake,Female,26,56,82,B,FIRST
+37,EBA Blessing,Female,24,40,64,B,FIRST
+38,EBAH Salome,Female,25,45,70,B,FIRST
+39,EDUN Olusegun Anike,Male,29,54,83,B,FIRST
+40,ELBA MATHEW AJOGA,Male,0,0,0,B,FIRST
+41,ELEGBEDE Raimot Abisola,Male,13,42,55,B,FIRST
+42,ELEGBEDE Soliat Anike,Female,24,33,57,B,FIRST
+43,ELEGBEDE Kehinde,Male,0,0,0,B,FIRST
+44,FAGBIRE Serifat Ajoke,Female,17,31,48,B,FIRST
+45,FAKOREDE Elijah Imole,Male,12,19,31,B,FIRST
+46,FAREMI Sheu Ayinla,Male,12,14,26,B,FIRST
+47,FATAI ARIKE ROFIAT,Female,0,0,0,B,FIRST
+48,FATOLU Blessing Iyabo,Female,19,23,42,B,FIRST
+49,GABRIEL Roda Motunrola,Female,24,58,82,B,FIRST
+50,HAMMED Fatimoh Amirah,Female,0,0,0,B,FIRST
+51,IDOWU Moridia Asake,Female,19,15,34,B,FIRST
+52,IDOWU Koreeb Ayinde,Male,20,40,60,B,FIRST
+53,IDOWU Elijah,Male,22,37,59,B,FIRST
+54,ILEYEMI Timileyin Arike,Female,1,7,8,B,FIRST
+55,KAZEEM Ramoni,Male,1,29,30,B,FIRST
+56,KAZEEM Aliat Anike,Female,13,20,33,B,FIRST
+57,KOSOLU TIMILEYIN A,Male,0,0,0,B,FIRST
+58,LAWAL Quadri Oladimeji,Male,19,51,70,B,FIRST
+59,MAKINDE Monsurat Ajike,Female,24,50,74,B,FIRST
+60,MUHAMMAD Adam Bello,Male,12,22,34,B,FIRST
+61,MUHEESAT Iyabo,Male,4,19,23,B,FIRST
+62,MUSTAPHA Abdulmaliq,Male,15,20,35,B,FIRST
+63,MUSTAPHA Ali Ayinla,Male,8,15,23,B,FIRST
+64,OBATOKI Mustapha Adeola,Male,7,16,23,B,FIRST
+65,OBAYOMI Fuhad Alabi,Male,1,20,21,B,FIRST
+66,OBI Samuel Francis,Male,13,13,26,B,FIRST
+67,OBIMAKINDE Esther Adufe,Female,0,0,0,B,FIRST
+68,OGUNLADE Zainab Ayinke,Female,25,23,48,B,FIRST
+69,OGUNLAJA David Ayomide,Male,17,61,78,B,FIRST
+70,OGUNLEYE Favour Darasimi,Female,8,32,40,B,FIRST
+71,OGUNSANWO Eniola Ajoke,Female,22,50,72,B,FIRST
+72,OKE Husefa,Male,22,52,74,B,FIRST
+73,OKOYA Sefiu .,Male,21,42,63,B,FIRST
+74,OLABODE Saheed Adisa,Male,11,20,31,B,FIRST
+75,OLAIFA Felicia Arike,Female,17,29,46,B,FIRST
+76,OLALEYE Suliat Amoke,Male,15,17,32,B,FIRST
+77,OLALEYE John Akanni,Female,11,30,41,B,FIRST
+78,OLANITE Tobi Ayomide,Male,15,17,32,B,FIRST
+79,OLANIYAN Micheal,Male,1,20,21,B,FIRST
+80,OLORUNTOYIN Oladipupo Festus,Male,7,16,23,B,FIRST
+81,OMIDIYA Roimot Asabi,Female,0,0,0,B,FIRST
+82,OROBIYI Kazeem Akanni,Male,10,18,28,B,FIRST
+83,POPOOLA Warisat Abike,Female,24,32,56,B,FIRST
+84,RAJI Faridat Adufe,Male,15,21,36,B,FIRST
+85,RAJI Joseph Ayinde,Female,14,39,53,B,FIRST
+86,SALAMI Grace Boluwatife,Female,19,26,45,B,FIRST
+87,SAMUEL Monday,Male,0,0,0,B,FIRST
+88,SANNI Tunde Alade,Male,1,18,19,B,FIRST
+89,SANUSI Sodirat Ajoke,Female,7,20,27,B,FIRST
+90,SHITTU Roqeebat Aduragbemi,Female,1,22,23,B,FIRST
+91,TOSSON Daniel,Male,1,28,29,B,FIRST
+92,WASIU Birki Ayomide,Female,15,36,51,B,FIRST
+1,ABASS Joseph Adeogo,Male,20,34,54,B,SECOND
+2,ABDULGANIY Sa'ad,Male,10,22,32,B,SECOND
+3,ADEBAYO Alimot Adunni,Female,10,23,33,B,SECOND
+4,ADEBAYO Nasirat Abike,Female,10,11,21,B,SECOND
+5,ADEDEJI Ayobami Adisa,Male,16,44,60,B,SECOND
+6,ADEGBITE Nathaniel Favour,Male,16,19,35,B,SECOND
+7,ADEGBOLA Rokeebat Opeyemi,Female,10,20,30,B,SECOND
+8,ADEJIMI Daniel Ayobami,Male,10,24,34,B,SECOND
+9,ADEKUNBI Morida Arike,Female,10,23,33,B,SECOND
+10,ADEKUNBI Fathia Anike,Female,10,27,37,B,SECOND
+11,ADEKUNLE Faruq Olamilekan,Male,30,29,59,B,SECOND
+12,ADENIJI Rokeeb Alao,Male,30,52,82,B,SECOND
+13,ADENIJI Fawas Akanbi,Male,30,64,94,B,SECOND
+14,ADENIYI Nimotalai,Female,10,22,32,B,SECOND
+15,ADENIYI Quadri Akano,Male,10,43,53,B,SECOND
+16,ADENLE Irebami,Male,16,33,49,B,SECOND
+17,ADEOTI Faruku Akano,Male,21,28,49,B,SECOND
+18,ADEPATE Quawi,Male,20,16,36,B,SECOND
+19,ADEPOJU Quawiat Abeke,Female,10,47,57,B,SECOND
+20,ADEYEMI Tope Arike,Female,24,25,49,B,SECOND
+21,AGBOBA Soliudeen Ayomide,Male,18,15,33,B,SECOND
+22,AJIBODE Islamiat Odunayo,Female,10,26,36,B,SECOND
+23,AKINBILE Quaribat Amope,Female,10,27,37,B,SECOND
+24,AKINGBADE Deborah Anike,Female,,,0,B,SECOND
+25,AKINLEYE Ahmod Olamilekan,Male,10,17,27,B,SECOND
+26,AKINNIYI Kudirat .,Female,30,42,72,B,SECOND
+27,AKINODE Rokibat Abebi,Female,10,17,27,B,SECOND
+28,AKINOLA Muyideen Ishola,Male,10,49,59,B,SECOND
+29,AKINOLA Muheez Alabi,Male,10,15,25,B,SECOND
+30,AKINYEMI Bukola Omonitan,Female,10,18,28,B,SECOND
+31,ALAO Odunayo Samuel,Male,,,0,B,SECOND
+32,BABAJIDE Gafar Olamilekan,Male,,,0,B,SECOND
+33,BABATUNDE Oluwapelumi Islamiat,Female,24,19,43,B,SECOND
+34,BANGBADE Musemilu Ayomide,Male,10,22,32,B,SECOND
+35,BANKOLE Olajesu,Female,28,55,83,B,SECOND
+36,BOLADELE Yinus Akanni,Male,,,0,B,SECOND
+37,DADA Rodia Asake,Female,24,58,82,B,SECOND
+38,EBA Blessing,Female,30,37,67,B,SECOND
+39,EBAH Salome,Female,30,38,68,B,SECOND
+40,EDUN Olusegun Anike,Male,30,57,87,B,SECOND
+41,ELBA MATHEW AJOGA,Male,,,0,B,SECOND
+42,ELEGBEDE Raimot Abisola,Male,,,0,B,SECOND
+43,ELEGBEDE Soliat Anike,Female,16,22,38,B,SECOND
+44,ELEGBEDE Kehinde,Male,11,38,49,B,SECOND
+45,FAGBIRE Serifat Ajoke,Female,20,34,54,B,SECOND
+46,FAKOREDE Elijah Imole,Male,20,35,55,B,SECOND
+47,FAREMI Sheu Ayinla,Male,20,26,46,B,SECOND
+48,FATAI ARIKE ROFIAT,Female,,,0,B,SECOND
+49,FATOLU Blessing Iyabo,Female,16,33,49,B,SECOND
+50,GABRIEL Roda Motunrola,Female,30,58,88,B,SECOND
+51,HAMMED Fatimoh Amirah,Female,,,0,B,SECOND
+52,IDOWU Moridia Asake,Female,22,28,50,B,SECOND
+53,IDOWU Koreeb Ayinde,Male,24,51,75,B,SECOND
+54,IDOWU Elijah,Male,10,62,72,B,SECOND
+55,ILEYEMI Timileyin Arike,Female,10,17,27,B,SECOND
+56,KAZEEM Ramoni,Male,10,29,39,B,SECOND
+57,KAZEEM Aliat Anike,Female,10,21,31,B,SECOND
+58,KOSOLU TIMILEYIN A,Male,,,0,B,SECOND
+59,LAWAL Quadri Oladimeji,Male,20,46,66,B,SECOND
+60,MAKINDE Monsurat Ajike,Female,28,44,72,B,SECOND
+61,MUHAMMAD Adam Bello,Male,10,22,32,B,SECOND
+62,MUHEESAT Iyabo,Male,10,29,39,B,SECOND
+63,MUSTAPHA Abdulmaliq,Male,10,20,30,B,SECOND
+64,MUSTAPHA Ali Ayinla,Male,10,13,23,B,SECOND
+65,OBATOKI Mustapha Adeola,Male,14,12,26,B,SECOND
+66,OBAYOMI Fuhad Alabi,Male,10,17,27,B,SECOND
+67,OBI Samuel Francis,Male,14,12,26,B,SECOND
+68,OBIMAKINDE Esther Adufe,Female,,,0,B,SECOND
+69,OGUNLADE Zainab Ayinke,Female,24,55,79,B,SECOND
+70,OGUNLAJA David Ayomide,Male,20,51,71,B,SECOND
+71,OGUNLEYE Favour Darasimi,Female,28,17,45,B,SECOND
+72,OGUNSANWO Eniola Ajoke,Female,30,38,68,B,SECOND
+73,OKE Husefa,Male,16,45,61,B,SECOND
+74,OKOYA Sefiu .,Male,24,49,73,B,SECOND
+75,OLABODE Saheed Adisa,Male,20,29,49,B,SECOND
+76,OLAIFA Felicia Arike,Female,10,34,44,B,SECOND
+77,OLALEYE Suliat Amoke,Male,22,34,56,B,SECOND
+78,OLALEYE John Akanni,Female,10,21,31,B,SECOND
+79,OLANITE Tobi Ayomide,Male,20,33,53,B,SECOND
+80,OLANIYAN Micheal,Male,10,18,28,B,SECOND
+81,OLORUNTOYIN Oladipupo Festus,Male,10,19,29,B,SECOND
+82,OMIDIYA Roimot Asabi,Female,,,0,B,SECOND
+83,OROBIYI Kazeem Akanni,Male,20,24,44,B,SECOND
+84,POPOOLA Warisat Abike,Female,26,28,54,B,SECOND
+85,RAJI Faridat Adufe,Male,24,17,41,B,SECOND
+86,RAJI Joseph Ayinde,Female,30,39,69,B,SECOND
+87,SALAMI Grace Boluwatife,Female,26,37,63,B,SECOND
+88,SAMUEL Monday,Male,,,0,B,SECOND
+89,SANNI Tunde Alade,Male,10,36,46,B,SECOND
+90,SANUSI Sodirat Ajoke,Female,10,24,34,B,SECOND
+91,SHITTU Roqeebat Aduragbemi,Female,10,16,26,B,SECOND
+92,TOSSON Daniel,Male,12,46,58,B,SECOND
+93,WASIU Birki Ayomide,Female,10,30,40,B,SECOND
+1,ABASS Joseph Adeogo,Male,15,36,51,B,THIRD
+2,ABDULGANIY Sa'ad,Male,15,41,56,B,THIRD
+3,ADEBAYO Alimot Adunni,Female,12,32,44,B,THIRD
+4,ADEBAYO Nasirat Abike,Female,12,23,35,B,THIRD
+5,ADEDEJI Ayobami Adisa,Male,20,23,43,B,THIRD
+6,ADEGBITE Nathaniel Favour,Male,20,36,56,B,THIRD
+7,ADEGBOLA Rokeebat Opeyemi,Female,24,40,64,B,THIRD
+8,ADEJIMI Daniel Ayobami,Male,12,40,52,B,THIRD
+9,ADEKUNBI Morida Arike,Female,22,40,62,B,THIRD
+10,ADEKUNBI Fathia Anike,Female,16,24,40,B,THIRD
+11,ADEKUNLE Faruq Olamilekan,Male,12,31,43,B,THIRD
+12,ADENIJI Rokeeb Alao,Male,15,41,56,B,THIRD
+13,ADENIJI Fawas Akanbi,Male,15,43,58,B,THIRD
+14,ADENIYI Nimotalai,Female,12,36,48,B,THIRD
+15,ADENIYI Quadri Akano,Male,29,30,59,B,THIRD
+16,ADENLE Irebami,Male,12,48,60,B,THIRD
+17,ADEOTI Faruku Akano,Male,12,34,46,B,THIRD
+18,ADEPATE Quawi,Male,14,39,53,B,THIRD
+19,ADEPOJU Quawiat Abeke,Female,29,45,74,B,THIRD
+20,ADEYEMI Tope Arike,Female,29,44,73,B,THIRD
+21,AGBOBA Soliudeen Ayomide,Male,24,30,54,B,THIRD
+22,AJIBODE Islamiat Odunayo,Female,14,41,55,B,THIRD
+23,AKINBILE Quaribat Amope,Female,16,28,44,B,THIRD
+24,AKINGBADE Deborah Anike,Female,0,0,0,B,THIRD
+25,AKINLEYE Ahmod Olamilekan,Male,12,35,47,B,THIRD
+26,AKINNIYI Kudirat .,Female,12,48,60,B,THIRD
+27,AKINODE Rokibat Abebi,Female,12,39,51,B,THIRD
+28,AKINOLA Muyideen Ishola,Male,14,37,51,B,THIRD
+29,AKINOLA Muheez Alabi,Male,12,36,48,B,THIRD
+30,AKINYEMI Bukola Omonitan,Female,12,33,45,B,THIRD
+31,ALAO Odunayo Samuel,Male,0,0,0,B,THIRD
+32,BABAJIDE Gafar Olamilekan,Male,0,0,0,B,THIRD
+33,BABATUNDE Oluwapelumi Islamiat,Female,12,31,43,B,THIRD
+34,BANGBADE Musemilu Ayomide,Male,21,45,66,B,THIRD
+35,BANKOLE Olajesu,Female,26,40,66,B,THIRD
+36,BOLADELE Yinus Akanni,Male,0,0,0,B,THIRD
+37,DADA Rodia Asake,Female,28,64,92,B,THIRD
+38,EBA Blessing,Female,18,45,63,B,THIRD
+39,EBAH Salome,Female,28,33,61,B,THIRD
+40,EDUN Olusegun Anike,Male,26,48,74,B,THIRD
+41,ELBA MATHEW AJOGA,Male,0,0,0,B,THIRD
+42,ELEGBEDE Raimot Abisola,Male,0,0,0,B,THIRD
+43,ELEGBEDE Soliat Anike,Female,12,35,47,B,THIRD
+44,ELEGBEDE Kehinde,Male,26,38,64,B,THIRD
+45,FAGBIRE Serifat Ajoke,Female,24,41,65,B,THIRD
+46,FAKOREDE Elijah Imole,Male,12,32,44,B,THIRD
+47,FAREMI Sheu Ayinla,Male,18,36,54,B,THIRD
+48,FATAI ARIKE ROFIAT,Female,0,0,0,B,THIRD
+49,FATOLU Blessing Iyabo,Female,16,38,54,B,THIRD
+50,GABRIEL Roda Motunrola,Female,29,54,83,B,THIRD
+51,HAMMED Fatimoh Amirah,Female,0,0,0,B,THIRD
+52,IDOWU Moridia Asake,Female,22,33,55,B,THIRD
+53,IDOWU Koreeb Ayinde,Male,12,40,52,B,THIRD
+54,IDOWU Elijah,Male,20,47,67,B,THIRD
+55,ILEYEMI Timileyin Arike,Female,12,35,47,B,THIRD
+56,KAZEEM Ramoni,Male,22,41,63,B,THIRD
+57,KAZEEM Aliat Anike,Female,12,29,41,B,THIRD
+58,KOSOLU TIMILEYIN A,Male,0,0,0,B,THIRD
+59,LAWAL Quadri Oladimeji,Male,22,42,64,B,THIRD
+60,MAKINDE Monsurat Ajike,Female,26,45,71,B,THIRD
+61,MUHAMMAD Adam Bello,Male,0,25,25,B,THIRD
+62,MUHEESAT Iyabo,Male,12,28,40,B,THIRD
+63,MUSTAPHA Abdulmaliq,Male,12,39,51,B,THIRD
+64,MUSTAPHA Ali Ayinla,Male,16,34,50,B,THIRD
+65,OBATOKI Mustapha Adeola,Male,12,29,41,B,THIRD
+66,OBAYOMI Fuhad Alabi,Male,0,29,29,B,THIRD
+67,OBI Samuel Francis,Male,12,33,45,B,THIRD
+68,OBIMAKINDE Esther Adufe,Female,0,0,0,B,THIRD
+69,OGUNLADE Zainab Ayinke,Female,29,47,76,B,THIRD
+70,OGUNLAJA David Ayomide,Male,28,57,85,B,THIRD
+71,OGUNLEYE Favour Darasimi,Female,18,38,56,B,THIRD
+72,OGUNSANWO Eniola Ajoke,Female,28,41,69,B,THIRD
+73,OKE Husefa,Male,29,39,68,B,THIRD
+74,OKOYA Sefiu .,Male,29,50,79,B,THIRD
+75,OLABODE Saheed Adisa,Male,20,39,59,B,THIRD
+76,OLAIFA Felicia Arike,Female,12,36,48,B,THIRD
+77,OLALEYE Suliat Amoke,Male,12,38,50,B,THIRD
+78,OLALEYE John Akanni,Female,20,32,52,B,THIRD
+79,OLANITE Tobi Ayomide,Male,20,34,54,B,THIRD
+80,OLANIYAN Micheal,Male,12,35,47,B,THIRD
+81,OLORUNTOYIN Oladipupo Festus,Male,12,32,44,B,THIRD
+82,OMIDIYA Roimot Asabi,Female,0,0,0,B,THIRD
+83,OROBIYI Kazeem Akanni,Male,0,32,32,B,THIRD
+84,POPOOLA Warisat Abike,Female,13,35,48,B,THIRD
+85,RAJI Faridat Adufe,Male,0,36,36,B,THIRD
+86,RAJI Joseph Ayinde,Female,22,48,70,B,THIRD
+87,SALAMI Grace Boluwatife,Female,22,36,58,B,THIRD
+88,SAMUEL Monday,Male,0,0,0,B,THIRD
+89,SANNI Tunde Alade,Male,20,28,48,B,THIRD
+90,SANUSI Sodirat Ajoke,Female,12,40,52,B,THIRD
+91,SHITTU Roqeebat Aduragbemi,Female,17,38,55,B,THIRD
+92,TOSSON Daniel,Male,22,33,55,B,THIRD
+93,WASIU Birki Ayomide,Female,29,39,68,B,THIRD

@@ -1,0 +1,240 @@
+S/N,name,Gender,Test,Exam Score,total,arm,term
+1,Abubakar Abdulateef Ayinla,Male,10,24,34,A,FIRST
+2,Adebola Adeola,Male,15,20,35,A,FIRST
+3,Adejimi James Iyanu,Male,12,10,22,A,FIRST
+4,Adejumo Lateef Alade,Male,13,15,28,A,FIRST
+5,Adekunle Esther Aweni,Female,14,24,38,A,FIRST
+6,Adelakun Latifat Amoke,Female,17,27,44,A,FIRST
+7,Adeniji Blessing Ibukun,Female,20,39,59,A,FIRST
+8,Adeniyi Basirat Ajoke,Female,20,48,68,A,FIRST
+9,Adeoye Fawarudeen Alao,Male,8,8,16,A,FIRST
+10,Adepate serah,Female,20,31,51,A,FIRST
+11,Adesina salam Akorede,Male,13,23,36,A,FIRST
+12,Adesina Itunu,Female,12,15,27,A,FIRST
+13,Adetayo Ibatullahi Aduke,Female,22,54,76,A,FIRST
+14,Adetona Elijah,Male,14,15,29,A,FIRST
+15,Adewale sofiat Mojisola,Female,25,61,86,A,FIRST
+16,Adisa Phebe Omowunmi,Female,11,31,42,A,FIRST
+17,Ajasa Tayo Temitope,Female,9,34,43,A,FIRST
+18,Akanbi Marvelous,Male,23,35,58,A,FIRST
+19,Akinde Isiah Olayiwola,Male,15,30,45,A,FIRST
+20,Akinsanya Quyum Adisa,Male,11,12,23,A,FIRST
+21,Akintola Faruq,Male,8,15,23,A,FIRST
+22,Akintola Aminat,Female,20,22,42,A,FIRST
+23,Akinyele opeyemi,Male,19,32,51,A,FIRST
+24,Akinyemi Daniel,Male,20,20,40,A,FIRST
+25,Alayande Fawas,Male,24,52,76,A,FIRST
+26,Amidu Wasiu,Male,19,49,68,A,FIRST
+27,Arogundade Daniel,Male,17,26,43,A,FIRST
+28,Arogundade Mathew,Male,17,31,48,A,FIRST
+29,Ajayi Favour,Male,13,34,47,A,FIRST
+30,Badmus Wasilat,Female,13,23,36,A,FIRST
+31,Bangbade Alaba,Female,10,26,36,A,FIRST
+32,Bankole Blessing,Female,19,49,68,A,FIRST
+33,Bello Ramoni,Male,15,8,23,A,FIRST
+34,Dada Daniel,Male,20,32,52,A,FIRST
+35,Daodu Quaribat,Female,19,22,41,A,FIRST
+36,Dauda Rodiat,Female,13,29,42,A,FIRST
+37,Dosunmu Abimbola,Male,12,13,25,A,FIRST
+38,Dosunmu Rodiat,Female,13,29,42,A,FIRST
+39,Egbebi Christiana,Female,20,48,68,A,FIRST
+40,Egbeyemi Kamoldeen,Male,15,23,38,A,FIRST
+41,Esun Maria,Female,18,26,44,A,FIRST
+42,Faleye kamorudeen,Male,14,28,42,A,FIRST
+43,Fashina ibrahim,Male,18,13,31,A,FIRST
+44,Gbadamosi Rasak,Male,21,38,59,A,FIRST
+45,Gbadamosi Ridwan,Male,20,28,48,A,FIRST
+46,Gbeletan Peter,Male,14,32,46,A,FIRST
+47,Ibikunle Muqoddim,Male,14,34,48,A,FIRST
+48,Ibrahim Amudalat,Female,19,35,54,A,FIRST
+49,Ilesanmi Pelumi,Female,21,34,55,A,FIRST
+50,isembe Grace,Female,20,57,77,A,FIRST
+51,Iyanda Muminat,Female,15,15,30,A,FIRST
+52,Jacob Paul,Male,14,11,25,A,FIRST
+53,Jimoh Barakat,Female,16,16,32,A,FIRST
+54,Kuse John,Male,23,30,53,A,FIRST
+55,Lameed Fawas,Male,20,21,41,A,FIRST
+56,Lawal koriba,Female,18,25,43,A,FIRST
+57,Odunfa Samuel,Male,8,6,14,A,FIRST
+58,Ogundele Elizabeth,Female,22,44,66,A,FIRST
+59,Ogunjimi Aliya,Female,25,59,84,A,FIRST
+60,Ogunleye Soliat,Female,20,38,58,A,FIRST
+61,Ogunyemi Moses,Male,26,59,85,A,FIRST
+62,Olagunju Emmanuel,Male,19,45,64,A,FIRST
+63,Olaide Hakeeb,Male,22,30,52,A,FIRST
+64,Olalekan Elijah,Male,13,17,30,A,FIRST
+65,Olaleye Latifat,Female,24,29,53,A,FIRST
+66,Olaleye Suliat,Female,15,30,45,A,FIRST
+67,Olanite Bolu,Female,19,26,45,A,FIRST
+68,Olubisi Mary,Female,17,27,#REF!,A,FIRST
+69,Omidokun Yusuf,Male,19,16,35,A,FIRST
+70,Omolegbe Kehinde,Male,27,61,88,A,FIRST
+71,Onifade Jonathan,Male,12,18,30,A,FIRST
+72,Onipede Samson,Male,23,56,79,A,FIRST
+73,Orisade Monday,Male,12,8,20,A,FIRST
+74,Owolabi Darasimi,Male,12,12,24,A,FIRST
+75,Saka Yusirat,Female,21,37,58,A,FIRST
+76,Salako Romlat,Female,24,44,68,A,FIRST
+77,Sobayo Aliat,Female,20,36,56,A,FIRST
+78,Taiwo Emmanuel Akande,Male,14,26,40,A,FIRST
+79,Taiwo Emmanuel Olamilekan,Male,12,19,31,A,FIRST
+80,Tijani Mutiu,Male,16,30,46,A,FIRST
+1,Abubakar Abdulateef Ayinla,Male,10,24,34,A,SECOND
+2,Adebola Adeola,Male,28,21,49,A,SECOND
+3,Adejimi James Iyanu,Male,30,34,64,A,SECOND
+4,Adejumo Lateef Alade,Male,16,23,39,A,SECOND
+5,Adekunle Esther Aweni,Female,10,19,29,A,SECOND
+6,Adelakun Latifat Amoke,Female,20,23,43,A,SECOND
+7,Adeniji Blessing Ibukun,Female,10,19,29,A,SECOND
+8,Adeniyi Basirat Ajoke,Female,30,48,78,A,SECOND
+9,Adeoye Fawarudeen Alao,Male,10,16,26,A,SECOND
+10,Adepate serah,Female,10,29,39,A,SECOND
+11,Adesina salam Akorede,Male,10,24,34,A,SECOND
+12,Adesina Itunu,Female,20,18,38,A,SECOND
+13,Adetayo Ibatullahi Aduke,Female,30,53,83,A,SECOND
+14,Adetona Elijah,Male,28,23,51,A,SECOND
+15,Adewale sofiat Mojisola,Female,30,65,95,A,SECOND
+16,Adisa Phebe Omowunmi,Female,20,26,46,A,SECOND
+17,Ajasa Tayo Temitope,Female,26,16,42,A,SECOND
+18,Akanbi Marvelous,Male,28,39,67,A,SECOND
+19,Akinde Isiah Olayiwola,Male,20,13,33,A,SECOND
+20,Akinsanya Quyum Adisa,Male,10,12,22,A,SECOND
+21,Akintola Faruq,Male,10,16,26,A,SECOND
+22,Akintola Aminat,Female,18,15,33,A,SECOND
+23,Akinyele opeyemi,Male,10,19,29,A,SECOND
+24,Akinyemi Daniel,Male,30,32,62,A,SECOND
+25,Alayande Fawas,Male,30,58,88,A,SECOND
+26,Amidu Wasiu,Male,24,53,77,A,SECOND
+27,Arogundade Daniel,Male,20,16,36,A,SECOND
+28,Arogundade Mathew,Male,10,18,28,A,SECOND
+29,Ajayi Favour,Male,10,39,49,A,SECOND
+30,Badmus Wasilat,Female,18,29,47,A,SECOND
+31,Bangbade Alaba,Female,20,19,39,A,SECOND
+32,Bankole Blessing,Female,22,10,32,A,SECOND
+33,Bello Ramoni,Male,10,25,35,A,SECOND
+34,Dada Daniel,Male,30,25,55,A,SECOND
+35,Daodu Quaribat,Female,20,35,55,A,SECOND
+36,Dauda Rodiat,Female,30,37,67,A,SECOND
+37,Dosunmu Abimbola,Male,10,18,28,A,SECOND
+38,Dosunmu Rodiat,Female,30,16,46,A,SECOND
+39,Egbebi Christiana,Female,20,40,60,A,SECOND
+40,Egbeyemi Kamoldeen,Male,10,24,34,A,SECOND
+41,Esun Maria,Female,26,17,43,A,SECOND
+42,Faleye kamorudeen,Male,28,19,47,A,SECOND
+43,Fashina ibrahim,Male,10,12,22,A,SECOND
+44,Gbadamosi Rasak,Male,30,40,70,A,SECOND
+45,Gbadamosi Ridwan,Male,18,19,37,A,SECOND
+46,Gbeletan Peter,Male,19,37,56,A,SECOND
+47,Ibikunle Muqoddim,Male,22,26,48,A,SECOND
+48,Ibrahim Amudalat,Female,20,22,42,A,SECOND
+49,Ilesanmi Pelumi,Female,30,36,66,A,SECOND
+50,isembe Grace,Female,30,62,92,A,SECOND
+51,Iyanda Muminat,Female,22,18,40,A,SECOND
+52,Jacob Paul,Male,18,15,33,A,SECOND
+53,Jimoh Barakat,Female,10,16,26,A,SECOND
+54,Kuse John,Male,30,43,73,A,SECOND
+55,Lawal koriba,Female,18,20,38,A,SECOND
+56,Odunfa Samuel,Male,10,10,20,A,SECOND
+57,Ogundele Elizabeth,Female,26,34,60,A,SECOND
+58,Ogunjimi Aliya,Female,30,54,84,A,SECOND
+59,Ogunleye Soliat,Female,22,27,49,A,SECOND
+60,Olagunju Emmanuel,Male,30,42,72,A,SECOND
+61,Olaide Hakeeb,Male,10,37,47,A,SECOND
+62,Olalekan Elijah,Male,9,22,31,A,SECOND
+63,Olaleye Latifat,Female,26,14,40,A,SECOND
+64,Olanite Bolu,Female,10,31,41,A,SECOND
+65,Olubisi Mary,Female,10,40,50,A,SECOND
+66,Omidokun Yusuf,Male,10,12,22,A,SECOND
+67,Onifade Jonathan,Male,10,14,24,A,SECOND
+68,Onipede Samson,Male,30,34,64,A,SECOND
+69,Orisade Monday,Male,10,10,20,A,SECOND
+70,Owolabi Darasimi,Male,10,16,26,A,SECOND
+71,Saka Yusirat,Female,18,27,45,A,SECOND
+72,Salako Romlat,Female,30,62,92,A,SECOND
+73,Sobayo Aliat,Female,18,31,49,A,SECOND
+74,Taiwo Emmanuel Akande,Male,10,10,20,A,SECOND
+75,Taiwo Emmanuel Olamilekan,Male,10,18,28,A,SECOND
+76,Tijani Mutiu,Male,24,41,65,A,SECOND
+77,Suleiman Biliaminu,Male,10,21,31,A,SECOND
+78,Lamidi oyeladun,Female,20,30,50,A,SECOND
+79,Dosunmu pomile,Male,10,43,53,A,SECOND
+80,Oladayo Samuel ,Male,10,25,35,A,SECOND
+1,Abubakar Abdulateef Ayinla,Male,28,31,59,A,THIRD
+2,Adebola Adeola,Male,28,45,73,A,THIRD
+3,Adejimi James Iyanu,Male,22,39,61,A,THIRD
+4,Adejumo Lateef Alade,Male,4,36,40,A,THIRD
+5,Adekunle Esther Aweni,Female,26,46,72,A,THIRD
+6,Adelakun Latifat Amoke,Female,4,39,43,A,THIRD
+7,Adeniji Blessing Ibukun,Female,28,43,71,A,THIRD
+8,Adeniyi Basirat Ajoke,Female,20,43,63,A,THIRD
+9,Adeoye Fawarudeen Alao,Male,20,32,52,A,THIRD
+10,Adepate serah,Female,8,30,38,A,THIRD
+11,Adesina salam Akorede,Male,18,37,55,A,THIRD
+12,Adesina Itunu,Female,20,48,68,A,THIRD
+13,Adetayo Ibatullahi Aduke,Female,28,50,78,A,THIRD
+14,Adetona Elijah,Male,20,45,65,A,THIRD
+15,Adewale sofiat Mojisola,Female,26,52,78,A,THIRD
+16,Adisa Phebe Omowunmi,Female,20,45,65,A,THIRD
+17,Ajasa Tayo Temitope,Female,22,45,67,A,THIRD
+18,Akanbi Marvelous,Male,24,41,65,A,THIRD
+19,Akinde Isiah Olayiwola,Male,18,32,50,A,THIRD
+20,Akinsanya Quyum Adisa,Male,6,36,42,A,THIRD
+21,Akintola Faruq,Male,24,39,63,A,THIRD
+22,Akintola Aminat,Female,28,38,66,A,THIRD
+23,Akinyele opeyemi,Male,22,41,63,A,THIRD
+24,Akinyemi Daniel,Male,22,40,62,A,THIRD
+25,Alayande Fawas,Male,20,50,70,A,THIRD
+26,Amidu Wasiu,Male,14,39,53,A,THIRD
+27,Arogundade Daniel,Male,18,44,62,A,THIRD
+28,Arogundade Mathew,Male,2,36,38,A,THIRD
+29,Ajayi Favour,Male,22,40,62,A,THIRD
+30,Badmus Wasilat,Female,28,43,71,A,THIRD
+31,Bangbade Alaba,Female,8,34,42,A,THIRD
+32,Bankole Blessing,Female,12,38,50,A,THIRD
+33,Bello Ramoni,Male,20,37,57,A,THIRD
+34,Dada Daniel,Male,24,43,67,A,THIRD
+35,Dauda Rodiat,Female,26,44,70,A,THIRD
+36,Dosunmu Abimbola,Male,12,40,52,A,THIRD
+37,Dosunmu Rodiat,Female,20,40,60,A,THIRD
+38,Egbebi Christiana,Female,12,42,54,A,THIRD
+39,Egbeyemi Kamoldeen,Male,14,45,59,A,THIRD
+40,Esun Maria,Female,20,40,60,A,THIRD
+41,Faleye kamorudeen,Male,26,38,64,A,THIRD
+42,Fashina ibrahim,Male,20,45,65,A,THIRD
+43,Gbadamosi Rasak,Male,20,38,58,A,THIRD
+44,Gbadamosi Ridwan,Male,22,35,57,A,THIRD
+45,Gbeletan Peter,Male,28,39,67,A,THIRD
+46,Ibikunle Muqoddim,Male,10,34,44,A,THIRD
+47,Ibrahim Amudalat,Female,24,36,60,A,THIRD
+48,Ilesanmi Pelumi,Female,28,41,69,A,THIRD
+49,isembe Grace,Female,20,49,69,A,THIRD
+50,Iyanda Muminat,Female,12,39,51,A,THIRD
+51,Jacob Paul,Male,28,40,68,A,THIRD
+52,Jimoh Barakat,Female,2,30,32,A,THIRD
+53,Kuse John,Male,24,44,68,A,THIRD
+54,Lawal koriba,Female,4,35,39,A,THIRD
+55,Odunfa Samuel,Male,2,46,48,A,THIRD
+56,Ogundele Elizabeth,Female,24,37,61,A,THIRD
+57,Ogunjimi Aliya,Female,26,47,73,A,THIRD
+58,Ogunleye Soliat,Female,12,46,58,A,THIRD
+59,Olagunju Emmanuel,Male,16,40,56,A,THIRD
+60,Olaide Hakeeb,Male,24,41,65,A,THIRD
+61,Olalekan Elijah,Male,20,40,60,A,THIRD
+62,Olaleye Latifat,Female,10,42,52,A,THIRD
+63,Olanite Bolu,Female,10,42,52,A,THIRD
+64,Olubisi Mary,Female,12,46,58,A,THIRD
+65,Omidokun Yusuf,Male,4,36,40,A,THIRD
+66,Onifade Jonathan,Male,28,40,68,A,THIRD
+67,Onipede Samson,Male,24,51,75,A,THIRD
+68,Orisade Monday,Male,10,33,43,A,THIRD
+69,Owolabi Darasimi,Male,4,38,42,A,THIRD
+70,Saka Yusirat,Female,28,47,75,A,THIRD
+71,Salako Romlat,Female,22,52,74,A,THIRD
+72,Sobayo Aliat,Female,22,40,62,A,THIRD
+73,Taiwo Emmanuel Akande,Male,28,32,60,A,THIRD
+74,Taiwo Emmanuel Olamilekan,Male,26,40,66,A,THIRD
+75,Tijani Mutiu,Male,26,37,63,A,THIRD
+76,Suleiman Biliaminu,Male,28,0,28,A,THIRD
+77,Lamidi oyeladun,Female,28,0,28,A,THIRD
+78,Dosunmu pomile,Male,26,47,73,A,THIRD
+79,Oladayo Samuel ,Male,4,42,46,A,THIRD

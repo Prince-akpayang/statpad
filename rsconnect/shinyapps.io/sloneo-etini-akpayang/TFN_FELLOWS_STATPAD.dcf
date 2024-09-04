@@ -1,0 +1,12 @@
+name: TFN_FELLOWS_STATPAD
+title: TFN_FELLOWS_STATPAD
+username: sloneo-etini-akpayang
+account: sloneo-etini-akpayang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12432417
+bundleId: 8966912
+url: https://sloneo-etini-akpayang.shinyapps.io/TFN_FELLOWS_STATPAD/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

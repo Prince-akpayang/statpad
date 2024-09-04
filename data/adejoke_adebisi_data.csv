@@ -1,0 +1,123 @@
+S/N,name,Gender,Test,Exam Score,total,arm,term
+1, Rukayat Abass,Female,14,41,55,NA,FIRST
+2, Kehinde Adebayo,Male,22,49,71,NA,FIRST
+3,Janet Adegbasa,Female,24,35,59,NA,FIRST
+4, Aliat Adegoke,Female,23,38,61,NA,FIRST
+5,Sofiat Adekanbi,Female,24,51,75,NA,FIRST
+6, Kafayat Adekunbi,Female,9,11,20,NA,FIRST
+7,Nuriat Adesiyan,Female,21,30,51,NA,FIRST
+8,Sarah Adetona,Female,20,49,69,NA,FIRST
+9, Esther Ajoge,Female,17,35,52,NA,FIRST
+10, Mercy Akinleye,Female,27,55,82,NA,FIRST
+11,Odunayo Akinola,Female,30,27,57,NA,FIRST
+12,Victoria Amogun,Female,15,35,50,NA,FIRST
+13, Itunu Amosu,Female,21,51,72,NA,FIRST
+14, Awwal Busari,Male,29,49,78,NA,FIRST
+15,Olekwu Daniel,Female,16,17,33,NA,FIRST
+16, Blessing Fagbohun,Female,15,21,36,NA,FIRST
+17, Aisha Fakeye,Female,23,24,47,NA,FIRST
+18,Rodiat Ibikunle,Female,15,22,37,NA,FIRST
+19,Aisha Ibraheem,Female,20,15,35,NA,FIRST
+20, Oluwasegun Ileyemi,Male,21,23,44,NA,FIRST
+21,Sofiullahi Jimoh,Male,23,27,50,NA,FIRST
+22, Lateefah Odunfa,Female,18,32,50,NA,FIRST
+23, Suliat Odunfa,Female,24,31,55,NA,FIRST
+24, Salimot Ogunbiyi,Female,19,28,47,NA,FIRST
+25,Samuel Ogundeji,Male,17,19,36,NA,FIRST
+26, Kehnde Ogunleke,Female,24,32,56,NA,FIRST
+27, Waris Ogunola,Male,18,21,39,NA,FIRST
+28, kemi Oladipupo,Female,16,26,42,NA,FIRST
+29,Mary Oladunni,Female,27,25,52,NA,FIRST
+30, Matthew Ololade,Male,16,34,50,NA,FIRST
+31,Samson Olaleye,Male,15,13,28,NA,FIRST
+32, Odunayo Olasoore,Female,22,22,44,NA,FIRST
+33,Precious Olugbenro,Female,21,18,39,NA,FIRST
+34, Oluwatimileyin Onaolapo,Male,26,61,87,NA,FIRST
+35,Aliat Onifade,Female,21,30,51,NA,FIRST
+36,Fathia Oyatogun,Female,22,33,55,NA,FIRST
+37,Mujeeb Popoola,Male,15,20,35,NA,FIRST
+38,Rofeeq Rahmon,Male,23,31,54,NA,FIRST
+39,Hannah Sunday,Female,15,19,34,NA,FIRST
+40,Faruq Tijani,Male,20,31,51,NA,FIRST
+1,Rukayat Abass,Female,21,56,77,NA,SECOND
+2,Kehinde Adebayo,Male,26,55,81,NA,SECOND
+3,Janet Adegbasa,Female,22,49,71,NA,SECOND
+4,Aliat Adegoke,Female,22,51,73,NA,SECOND
+5,Sofiat Adekanbi,Female,23,57,80,NA,SECOND
+6,kafayat Adekunbi,Female,15,17,32,NA,SECOND
+7,Nuriat Adesiyan,Female,19,40,59,NA,SECOND
+8,Sarah Adetona,Female,22,49,71,NA,SECOND
+9,Esther Ajeoge,Female,18,46,64,NA,SECOND
+10,Mercy Akinleye,Female,26,60,86,NA,SECOND
+11,Odunayo Akinola,Female,22,39,61,NA,SECOND
+12,Victoria Amogun,Female,17,58,75,NA,SECOND
+13,Itunu Amosu,Female,17,51,68,NA,SECOND
+14,Iyiola Azeez,Male,28,65,93,NA,SECOND
+15,Dimeji Bankole,Male,12,24,36,NA,SECOND
+16,Awwal Busari,Male,28,58,86,NA,SECOND
+17,Olekwu Daniel,Female,20,45,65,NA,SECOND
+18,Aishat Fakeye,Female,26,30,56,NA,SECOND
+19,Rodiat Ibikunle,Female,14,19,33,NA,SECOND
+20,Ayisat Ibrahim,Female,15,10,25,NA,SECOND
+21,Segun Ileyemi,Male,17,41,58,NA,SECOND
+22,Sofiullahi Jimoh,Male,17,34,51,NA,SECOND
+23,Suliat Odunfa,Female,19,49,68,NA,SECOND
+24,Latifat Odunfa,Female,21,49,70,NA,SECOND
+25,Salimot Ogunbiyi,Female,8,23,31,NA,SECOND
+26,Samuel Ogundeji,Male,17,13,30,NA,SECOND
+27,Kehinde Ogunleke,Female,19,40,59,NA,SECOND
+28,Waris Ogunola,Male,17,40,57,NA,SECOND
+29,Kemi Oladipupo,Female,23,40,63,NA,SECOND
+30,Mary Oladunni,Female,18,21,39,NA,SECOND
+31,Samson Olaleye,Male,16,28,44,NA,SECOND
+32,Odunayo Olasoore,Female,25,25,50,NA,SECOND
+33,Mattew Ololade,Male,18,20,38,NA,SECOND
+34,Precious Olugbenro,Female,19,43,62,NA,SECOND
+35,Oluwatimileyin Onaolapo,Male,27,64,91,NA,SECOND
+36,Haliat Onifade,Female,21,43,64,NA,SECOND
+37,Fathia Oyatogun,Female,23,48,71,NA,SECOND
+38,Mujeeb Popoola,Male,12,38,50,NA,SECOND
+39,Rofeeq Ramon,Male,21,17,38,NA,SECOND
+40,Hannah Sunday,Female,12,35,47,NA,SECOND
+41,Faruq Tijani,Male,14,36,50,NA,SECOND
+1,Rukayat Abass,Female,25,37,62,NA,THIRD
+2,Kehinde Adebayo,Male,28,27,55,NA,THIRD
+3,Janet Adegbasa,Female,21,26,47,NA,THIRD
+4,Aliat Adegoke,Female,24,30,54,NA,THIRD
+5,Sofiat Adekanbi,Female,19,30,49,NA,THIRD
+6,kafayat Adekunbi,Female,7,26,33,NA,THIRD
+7,Nuriat Adesiyan,Female,19,30,49,NA,THIRD
+8,Sarah Adetona,Female,21,29,50,NA,THIRD
+9,Esther Ajeoge,Female,23,28,51,NA,THIRD
+10,Mercy Akinleye,Female,24,31,55,NA,THIRD
+11,Odunayo Akinola,Female,18,27,45,NA,THIRD
+12,Victoria Amogun,Female,26,28,54,NA,THIRD
+13,Itunu Amosu,Female,20,34,54,NA,THIRD
+14,Iyiola Azeez,Male,30,52,82,NA,THIRD
+15,Dimeji Bankole,Male,9,25,34,NA,THIRD
+16,Awwal Busari,Male,26,28,54,NA,THIRD
+17,Olekwu Daniel,Female,19,24,43,NA,THIRD
+18,Aishat Fakeye,Female,17,25,42,NA,THIRD
+19,Rodiat Ibikunle,Female,18,26,44,NA,THIRD
+20,Ayisat Ibrahim,Female,15,27,42,NA,THIRD
+21,Segun Ileyemi,Male,12,26,38,NA,THIRD
+22,Sofiullahi Jimoh,Male,16,24,40,NA,THIRD
+23,Suliat Odunfa,Female,17,26,43,NA,THIRD
+24,Latifat Odunfa,Female,13,27,40,NA,THIRD
+25,Salimot Ogunbiyi,Female,7,26,33,NA,THIRD
+26,Samuel Ogundeji,Male,14,31,45,NA,THIRD
+27,Kehinde Ogunleke,Female,23,26,49,NA,THIRD
+28,Waris Ogunola,Male,16,24,40,NA,THIRD
+29,Kemi Oladipupo,Female,10,25,35,NA,THIRD
+30,Mary Oladunni,Female,19,28,47,NA,THIRD
+31,Samson Olaleye,Male,12,26,38,NA,THIRD
+32,Odunayo Olasoore,Female,12,25,37,NA,THIRD
+33,Mattew Ololade,Male,15,24,39,NA,THIRD
+34,Precious Olugbenro,Female,13,32,45,NA,THIRD
+35,Oluwatimileyin Onaolapo,Male,29,50,79,NA,THIRD
+36,Haliat Onifade,Female,24,29,53,NA,THIRD
+37,Fathia Oyatogun,Female,13,24,37,NA,THIRD
+38,Mujeeb Popoola,Male,12,22,34,NA,THIRD
+39,Rofeeq Ramon,Male,18,26,44,NA,THIRD
+40,Hannah Sunday,Female,20,28,48,NA,THIRD
+41,Faruq Tijani,Male,15,28,43,NA,THIRD
